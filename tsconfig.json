@@ -7,9 +7,9 @@
     "skipLibCheck": true,
 
     /* Bundler mode */
-    // "moduleResolution": "bundler",
-    "moduleResolution": "node",
-    // "allowImportingTsExtensions": true,
+    // https://dev.to/ayc0/typescript-50-new-mode-bundler-esm-1jic
+    "moduleResolution": "bundler",
+    "allowImportingTsExtensions": true,
     "allowSyntheticDefaultImports": true,
     "resolveJsonModule": true,
     "isolatedModules": true,
